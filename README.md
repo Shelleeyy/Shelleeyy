@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Shelleeyy
--Im trying to learn c++ :p
+
 
 
 <!---
